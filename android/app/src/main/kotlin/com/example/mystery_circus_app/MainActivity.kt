@@ -1,4 +1,4 @@
-package com.example.mystery_circus_app
+package com.TG2C.ClueFinder
 
 import io.flutter.embedding.android.FlutterActivity
 

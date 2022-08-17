@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "427504981860",
+    "firebase_url": "https://clue-finder-4eb3e-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "clue-finder-4eb3e",
+    "storage_bucket": "clue-finder-4eb3e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:427504981860:android:a21a7adad886441636cc71",
+        "android_client_info": {
+          "package_name": "com.TG2C.ClueFinder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "427504981860-bvdc9nt72ve0o6n0u8ah8pfngh2p8n1a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCG5ny_XbGaBxEa9x_SnC1O6hcwTcSQO3E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "427504981860-bvdc9nt72ve0o6n0u8ah8pfngh2p8n1a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
